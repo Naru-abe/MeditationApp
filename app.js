@@ -78,9 +78,9 @@ const app = () => {
   }
 
 
-  let totaleTime = 19000;
-  let breatheTime = totaleTime / 4.75;
-  let holdTime = totaleTime / 4.75 * 1.75;
+  let totaleTime = 16000;
+  let breatheTime = totaleTime / 4;
+  let holdTime = totaleTime / 4;
 
   meditateAnimation();
 
